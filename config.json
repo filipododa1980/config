@@ -14,5 +14,8 @@
       "host": "103.107.199.94",
       "port": "12543"
     }
-  ]
+  ],
+  "showsponser": true,
+  "spon_usrname": "akhbar_montakhab",
+  "sponser_id": -1116567042
 }
